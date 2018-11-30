@@ -10,8 +10,8 @@ sections:
   label: Posts
   create: all
   templates:
-  - person
   - post
+  - person
 - type: jekyll-pages
   label: Pages
   create: all
