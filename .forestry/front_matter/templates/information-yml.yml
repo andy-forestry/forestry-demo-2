@@ -49,4 +49,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/2017-08-01-welcome.md
 - _data/information.yml
