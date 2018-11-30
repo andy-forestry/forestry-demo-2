@@ -40,4 +40,5 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/a-new-post.md
 - _posts/2017-08-01-welcome.md
