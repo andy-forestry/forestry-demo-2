@@ -7,10 +7,14 @@ tags: []
 banner_image: ''
 related_posts: []
 role: staff
+menu:
+  footer:
+    weight: 1
+    parent: _posts
 
 ---
 # Wow! A New Post!
 
 This new post is pretty great. Here's a picture:
 
-![](/uploads/2018/11/26/Ghost In The Shell _screenshot.jpg)This is a nice little editor. 
+![](/uploads/2018/11/26/Ghost In The Shell _screenshot.jpg)This is a nice little editor.
