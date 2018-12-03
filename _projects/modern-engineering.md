@@ -10,8 +10,11 @@ tags:
 - engineering
 - research
 slug: ''
----
+menu:
+  footer:
+    weight: 4
 
+---
 ## Overview
 
 Resident Professors Murphy Tiernan and Kelly Brewer have collaborated over the last 3 years with leading professionals in the continental US to develop a modern curriculum for Engineering students.
