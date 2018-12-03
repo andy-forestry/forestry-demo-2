@@ -32,6 +32,8 @@ sections:
   match: "*"
   templates:
   - project
+- type: heading
+  label: Data
 - type: document
   path: _data/information.yml
   label: Contact Information
